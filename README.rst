@@ -5,6 +5,7 @@ Usage
 Benchmark wall and cpu time. 
 
 ::
+
     > benchmark = Benchmark()
     > benchmark.print_time(sys.stderr)
 
